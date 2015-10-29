@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="db37b3b1-f477-4998-95a7-0211101982db" solutionId="db37b3b1-f477-4998-95a7-0211101982db" resetWebServer="false" sharePointProductVersion="15.0" name="UploadDAA" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="ef987b68-f539-41b3-b000-113b22b0ee31" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="4985b9ff-c289-426e-8f64-22240bca9bc3" />
+  </projectItems>
+</package>

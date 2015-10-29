@@ -1,0 +1,12 @@
+﻿body
+{
+}
+
+/* Hides the Upload button for the Destination folder field on the custom UploadDAA.aspx form for uploading application documents */
+#ctl00_PlaceHolderMain_ctl04_ctl01_selectTargetButton {
+    display: none;
+}
+
+.uploadDAA {
+    display: none;
+}
